@@ -33,7 +33,7 @@ input:invalid + button {
     background-color: #ccc;
     cursor: not-allowed;
     color: black;
-    opacity: 0.2;
+    opacity: 0.3;
   }
   input:invalid + button:hover{
     background-color: #ccc;
